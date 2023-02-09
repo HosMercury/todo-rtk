@@ -1,61 +1,29 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Hos"
+    },
+    {
+      "id": 2,
+      "name": "Mercury"
+    }
+  ],
   "todos": [
     {
-      "id": 988631,
-      "name": "Salad"
+      "id": 240531,
+      "name": "wwww",
+      "userId": 2
     },
     {
-      "id": 962288,
-      "name": "Chips"
+      "id": 424379,
+      "name": "tt",
+      "userId": 2
     },
     {
-      "id": 748634,
-      "name": "Keyboard"
-    },
-    {
-      "id": 154965,
-      "name": "Fish"
-    },
-    {
-      "id": 168676,
-      "name": "Soap"
-    },
-    {
-      "id": 979284,
-      "name": "Towels"
-    },
-    {
-      "id": 621825,
-      "name": "Fish"
-    },
-    {
-      "id": 555789,
-      "name": "Pizza"
-    },
-    {
-      "id": 258582,
-      "name": "Chicken"
-    },
-    {
-      "id": 662722,
-      "name": "Ball"
-    },
-    {
-      "id": 280923,
-      "name": "Fish"
-    },
-    {
-      "id": 824736,
-      "name": "gcvjh"
-    },
-    {
-      "id": 113508,
-      "name": "tdfjyfyfv"
-    },
-    {
-      "id": 466573,
-      "name": "rrrrr"
+      "id": 811202,
+      "name": "gggg",
+      "userId": 1
     }
   ]
 }

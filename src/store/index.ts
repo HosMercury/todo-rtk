@@ -1,4 +1,4 @@
-import { configureStore, ThunkAction, Action } from "@reduxjs/toolkit";
+import { configureStore } from "@reduxjs/toolkit";
 import todoApi from "./apis/todoApi";
 
 export const store = configureStore({
@@ -12,4 +12,3 @@ export const store = configureStore({
 
 export type AppDispatch = typeof store.dispatch;
 export type RootState = ReturnType<typeof store.getState>;
-
